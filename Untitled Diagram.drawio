@@ -61,6 +61,9 @@
             <mxPoint x="240" y="-339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="k4fKLfA-_JbR_TIll8N7-31" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-800" width="1180" height="1050" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
